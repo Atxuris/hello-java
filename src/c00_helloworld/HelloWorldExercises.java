@@ -1,3 +1,5 @@
+package c00_helloworld;
+
 public class HelloWorldExercises {
     public static void main(String[] args) {
 
@@ -82,7 +84,7 @@ public class HelloWorldExercises {
         Al leer esto, me di cuenta que al cambiar el nombre del archivo, se cambió automáticamente el nombre de la
         clase sin que me diera cuenta. Entonces hice la prueba, cambiando el nombre de la clase para que fuese
         diferente al archivo, y ahí saltó el error:
-        java: class HelloWorldExercises is public, should be declared in a file named HelloWorldExercises.java
+        java: class c00_helloworld.HelloWorldExercises is public, should be declared in a file named c00_helloworld.HelloWorldExercises.java
          */
 
     }
