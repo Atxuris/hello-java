@@ -128,7 +128,5 @@ public class ConditionalsExercises {
         }else {
             System.out.println("El tercer número es mayor.");
         }
-
-
     }
 }
