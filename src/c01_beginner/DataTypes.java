@@ -23,6 +23,5 @@ public class DataTypes {
 
         String myString = "Hola, Java";
         System.out.println(myString.getClass().getSimpleName());
-
     }
 }
